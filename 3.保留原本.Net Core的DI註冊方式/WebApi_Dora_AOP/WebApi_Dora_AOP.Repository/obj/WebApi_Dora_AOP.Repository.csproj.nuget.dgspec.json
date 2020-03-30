@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Repository\\WebApi_Dora_AOP.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Common\\WebApi_Dora_AOP.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Common\\WebApi_Dora_AOP.Common.csproj",
+        "projectName": "WebApi_Dora_AOP.Common",
+        "projectPath": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Common\\WebApi_Dora_AOP.Common.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Dora.Interception": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Repository\\WebApi_Dora_AOP.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Repository\\WebApi_Dora_AOP.Repository.csproj",
+        "projectName": "WebApi_Dora_AOP.Repository",
+        "projectPath": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Repository\\WebApi_Dora_AOP.Repository.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Common\\WebApi_Dora_AOP.Common.csproj": {
+                "projectPath": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\3.保留原本.Net Core的DI註冊方式\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Common\\WebApi_Dora_AOP.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

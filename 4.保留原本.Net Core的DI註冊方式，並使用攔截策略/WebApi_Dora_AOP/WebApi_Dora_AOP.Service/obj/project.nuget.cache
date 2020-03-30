@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jdE3sv5tyMK36ovLCpWd8LsBzAR2XD78QOPZtTkldje5Dgq4pac6731CXHPkKd+38A2SKjF+HugEqHQomcBIQ==",
+  "success": true,
+  "projectFilePath": "C:\\程式練習\\d程式自我練習\\AOP\\Dora.Interception\\自我練習\\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\\WebApi_Dora_AOP\\WebApi_Dora_AOP.Service\\WebApi_Dora_AOP.Service.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

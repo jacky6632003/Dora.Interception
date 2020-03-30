@@ -1,0 +1,45 @@
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.deps.json
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Common.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Common.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csprojAssemblyReference.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CoreCompileInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfoInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfo.cs
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CopyComplete
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.deps.json
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Common.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Common.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csprojAssemblyReference.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CoreCompileInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfoInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfo.cs
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CopyComplete
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\2.使用Interceptor_Attribute 分開\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.deps.json
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Common.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Common.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csprojAssemblyReference.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CoreCompileInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfoInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfo.cs
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CopyComplete
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\3.保留原本.Net Core的DI註冊方式\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.deps.json
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\bin\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csproj.CoreCompileInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfoInputs.cache
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.AssemblyInfo.cs
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.dll
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.pdb
+C:\程式練習\d程式自我練習\AOP\Dora.Interception\自我練習\4.保留原本.Net Core的DI註冊方式，並使用攔截策略\WebApi_Dora_AOP\WebApi_Dora_AOP.Repository\obj\Debug\netstandard2.1\WebApi_Dora_AOP.Repository.csprojAssemblyReference.cache
